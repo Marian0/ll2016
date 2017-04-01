@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="LasLilas" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.groween.laslilas" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Las Lilas</name>
     <description>
         Venta de semen premium.
     </description>
-    <author email="avalon3@gmail.com" href="http://avalon3.com">
-        Avalon3 Team
+    <author email="info@groween.com" href="https://www.groween.com">
+        Groween.com
     </author>
     <content src="index.html" />
     <preference name="permissions" value="none" />
